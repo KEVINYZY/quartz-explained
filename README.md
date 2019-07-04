@@ -1,6 +1,7 @@
-˵����
-+ ����Ŀ�ǶԶ�ʱ���ȿ��quartz��Դ��ķ�����ע��;
-+ quartzԴ���ַΪ��http://svn.terracotta.org/svn/quartz/trunk��
-+ ����quartz��ʹ�ã����Բο�ϵ�в���[quartz�̳�ϵ��](http://nkcoder.github.io/tags/quartz/)
-+ ҵ��ʱ����ɣ���˲���ʱ���£�
-+ ����ˮƽ���ޣ�����֮������ӭ����̽��.
+置顶。
+说明：
++ 本项目是对定时调度框架quartz的源码的分析和注解;
++ quartz源码地址为：http://svn.terracotta.org/svn/quartz/trunk；
++ 关于quartz的使用，可以参考系列博客[quartz教程系列](http://nkcoder.github.io/tags/quartz/)
++ 业余时间完成，因此不定时更新；
++ 由于水平有限，不当之处，欢迎交流探讨.
